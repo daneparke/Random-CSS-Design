@@ -1,0 +1,43 @@
+/* Write your selectors and styles below! */
+
+#title {
+    color:blue;
+    text-align: center;
+
+}
+p {
+    color:green;
+    background-color:tan;
+}
+body {
+    background-color:rgb(163, 173, 175);
+}
+
+.main-content {
+    margin:auto;
+    border:dashed;
+    border-color: rgb(73, 38, 73);
+    padding:20px;
+    background-color:white;
+    display:flex;
+    
+
+
+    
+    
+}
+.main-content p {
+    color:red;
+    border:solid;
+    padding:30px;
+    border-color:green;
+    font-family: cursive;
+    text-align:center;
+    
+
+   
+}
+#subtitle {
+    text-align:center;
+    font-style: italic;
+}
